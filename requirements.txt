@@ -1,1 +1,20 @@
 fastapi~=0.111.0
+xformers==0.0.21
+langchain==0.1.12
+sentence_transformers
+langchainhub
+langchain_community
+chromadb==0.4.12
+faiss-cpu
+transformers
+torch
+llama-index-embeddings-huggingface
+llama-index-llms-llama-cpp
+llama-index-readers-file pymupdf
+llama-cpp-python
+ctransformers>=0.2.24
+bs4
+tiktoken
+awscli
+streamlit
+-e.
